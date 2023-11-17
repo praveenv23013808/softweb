@@ -54,7 +54,6 @@ Publish the website in the given URL.
         <a href="#home">home</a>
         <a href="#team">team</a>
         <a href="#project">Products</a>
-        <a href="#service">service</a>
         <a href="#contact">contact</a>
       </div>
 
@@ -104,7 +103,7 @@ Publish the website in the given URL.
         </div>
 
         <div class="box">
-          <img src="images/praveen1.jpg" />
+          <img src="images/praveen.jpg" />
 
           <div class="content">
             <div>
@@ -121,7 +120,7 @@ Publish the website in the given URL.
         </div>
 
         <div class="box">
-          <img src="images/praveen.jpg" />
+          <img src="images/praveen (2).jpg" />
 
           <div class="content">
             <div>
@@ -337,84 +336,6 @@ Publish the website in the given URL.
 
     <!-- project section ends -->
 
-    <!-- service section start -->
-    <section class="service" id="service">
-      <h1 class="heading">Kali Linux</h1>
-      <p class="paragraph">
-		Best Kali Linux Tools
-      </p>
-
-      <div class="box-container">
-        <div class="box">
-          <i class="fa-brands fa-linux"></i>
-          <h3>Nmap</h3>
-          <p>
-            Nmap is an open-source network scanner that is used to recon/scan
-            networks. It is used to discover hosts, ports, and services along
-            with their versions over a network.
-          </p>
-          <span class="fas fa-long-arrow-alt-right"></span>
-        </div>
-
-        <div class="box">
-          <i class="fa-brands fa-linux"></i>
-          <h3>Wireshark</h3>
-          <p>
-            Wireshark is a network security tool used to analyze or work with
-            data sent over a network. It is used to analyze the packets
-            transmitted over a network.
-          </p>
-          <span class="fas fa-long-arrow-alt-right"></span>
-        </div>
-
-        <div class="box">
-          <i class="fa-brands fa-linux"></i>
-          <h3>Metasploit Framework</h3>
-          <p>
-            Metasploit is an open-source tool that was designed by Rapid7
-            technologies. It is one of the world’s most used penetration testing
-            frameworks.
-          </p>
-          <span class="fas fa-long-arrow-alt-right"></span>
-        </div>
-
-        <div class="box">
-          <i class="fa-brands fa-linux"></i>
-          <h3>Aircrack-ng</h3>
-          <p>
-            Aircrack is an all in one packet sniffer, WEP and WPA/WPA2 cracker,
-            analyzing tool and a hash capturing tool. It is a tool used for wifi
-            hacking.
-          </p>
-          <span class="fas fa-long-arrow-alt-right"></span>
-        </div>
-
-        <div class="box">
-          <i class="fa-brands fa-linux"></i>
-          <h3>Wireshark</h3>
-          <p>
-            Wireshark is a network security tool used to analyze or work with
-            data sent over a network. It is used to analyze the packets
-            transmitted over a network.
-          </p>
-          <span class="fas fa-long-arrow-alt-right"></span>
-        </div>
-
-        <div class="box">
-          <i class="fa-brands fa-linux"></i>
-          <h3>Sqlmap</h3>
-          <p>
-            sqlmap is one of the best tools to perform SQL injection attacks. It
-            just automates the process of testing a parameter for SQL injection
-            and even automates the process of exploitation of the vulnerable
-            parameter.
-          </p>
-          <span class="fas fa-long-arrow-alt-right"></span>
-        </div>
-      </div>
-    </section>
-    <!-- service section ends -->
-
     <!-- contact section start -->
 
     <section class="contact" id="contact">
@@ -478,7 +399,6 @@ Publish the website in the given URL.
 ![image](https://github.com/praveenv23013808/softweb/assets/145824728/a41dc7d2-a9d1-489c-bbc4-a1f534476f00)
 ![image](https://github.com/praveenv23013808/softweb/assets/145824728/4a6225a9-1131-4304-96d6-95d5645e7098)
 ![image](https://github.com/praveenv23013808/softweb/assets/145824728/7a15aca8-a9d6-41da-9c67-247aca15fe4b)
-![image](https://github.com/praveenv23013808/softweb/assets/145824728/e0a39452-a835-41ba-bf97-f929593adbeb)
 ![image](https://github.com/praveenv23013808/softweb/assets/145824728/d3cb9436-fa51-41e7-97df-fc265f5e4ca8)
 
 
