@@ -397,8 +397,11 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![image](https://github.com/praveenv23013808/softweb/assets/145824728/a41dc7d2-a9d1-489c-bbc4-a1f534476f00)
+
 ![image](https://github.com/praveenv23013808/softweb/assets/145824728/4a6225a9-1131-4304-96d6-95d5645e7098)
+
 ![image](https://github.com/praveenv23013808/softweb/assets/145824728/7a15aca8-a9d6-41da-9c67-247aca15fe4b)
+
 ![image](https://github.com/praveenv23013808/softweb/assets/145824728/d3cb9436-fa51-41e7-97df-fc265f5e4ca8)
 
 
